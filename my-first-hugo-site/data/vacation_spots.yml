@@ -1,0 +1,21 @@
+- name: France, Paris
+  latitude: 48.856613
+  longitude: 2.352222
+- name: Spain, La Linea
+  latitude: 36.1677899
+  longitude: -5.3482396
+- name: Germany, Cologne
+  latitude: 50.938361
+  longitude: 6.959974
+- name: Italy, Milan
+  latitude: 45.4641943
+  longitude: 9.1896346
+- name: Netherlands, Amsterdam
+  latitude: 52.3730796
+  longitude: 4.8924534
+- name: Vietnam, Đà Nẵng
+  latitude: 16.068
+  longitude: 108.212
+- name: Thailand, Bangkok
+  latitude: 13.7524938
+  longitude: 100.4935089

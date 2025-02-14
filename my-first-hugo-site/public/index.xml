@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I like to roar</title>
+      <link>http://localhost:1313/posts/2022-04-03-i-like-to-roar/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-04-03-i-like-to-roar/</guid>
+      <description>&lt;p&gt;Hi, quick update from me. I just want to let everyone know that I like roaring.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Today I made friends</title>
+      <link>http://localhost:1313/posts/2022-04-02-today-i-made-friends/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-04-02-today-i-made-friends/</guid>
+      <description>&lt;p&gt;I got lost in the woods today. Two friends, a Meerkat and a Warthog, found me,&#xA;sung a song with me and gave my life new meaning. Today was a good day.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vegan experiment</title>
+      <link>http://localhost:1313/posts/2022-04-01-vegan-experiment/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-04-01-vegan-experiment/</guid>
+      <description>&lt;p&gt;I tried to become a vegan today. I made it to lunch time and couldn&amp;rsquo;t bear the&#xA;sight of another green leaf. Yuck!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m learning Hugo, one step at a time.&lt;/p&gt;&#xA;&lt;h3 id=&#34;these-are-my-favourite-vacation-spots&#34;&gt;These are my favourite vacation spots&lt;/h3&gt;&#xA;&lt;div id=&#34;map&#34;&gt;&#xD;&#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.7.1/dist/leaflet.css&#34; crossorigin=&#34;&#34;/&gt;&#xD;&#xA;    &lt;script src=&#34;https://unpkg.com/leaflet@1.7.1/dist/leaflet.js&#34; crossorigin=&#34;&#34;&gt;&lt;/script&gt;&#xD;&#xA;    &lt;script&gt;&#xD;&#xA;     let markers = [{&#34;latitude&#34;:48.856613,&#34;longitude&#34;:2.352222,&#34;name&#34;:&#34;France, Paris&#34;},{&#34;latitude&#34;:36.1677899,&#34;longitude&#34;:-5.3482396,&#34;name&#34;:&#34;Spain, La Linea&#34;},{&#34;latitude&#34;:50.938361,&#34;longitude&#34;:6.959974,&#34;name&#34;:&#34;Germany, Cologne&#34;},{&#34;latitude&#34;:45.4641943,&#34;longitude&#34;:9.1896346,&#34;name&#34;:&#34;Italy, Milan&#34;},{&#34;latitude&#34;:52.3730796,&#34;longitude&#34;:4.8924534,&#34;name&#34;:&#34;Netherlands, Amsterdam&#34;},{&#34;latitude&#34;:16.068,&#34;longitude&#34;:108.212,&#34;name&#34;:&#34;Vietnam, Đà Nẵng&#34;},{&#34;latitude&#34;:13.7524938,&#34;longitude&#34;:100.4935089,&#34;name&#34;:&#34;Thailand, Bangkok&#34;}];&#xD;&#xA;    &lt;/script&gt;&#xD;&#xA;    &lt;script src=&#34;http://localhost:1313/map.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;    &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
