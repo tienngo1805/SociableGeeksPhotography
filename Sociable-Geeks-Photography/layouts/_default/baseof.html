@@ -10,7 +10,8 @@
 </head>
 
 <body>
- {{ block "main" . }}
- {{ end }}
+    {{ partial "nav.html" }}
+    {{ block "main" . }}
+    {{ end }}
 </body>
 </html>
