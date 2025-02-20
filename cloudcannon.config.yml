@@ -15,7 +15,7 @@ markdown:
     linkify: false
     table: false
     strikethrough: false
-    subscript: false
+    subscript: true
     superscript: false
     heading_ids: false
     breaks: false
