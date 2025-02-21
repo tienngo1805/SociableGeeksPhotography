@@ -34,3 +34,20 @@ body {
   #map {
     height: 300px;
   }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery-item {
+    width: 33%; /* Adjust width for 3 columns */
+    margin-bottom: 20px; /* Space between rows */
+    margin-right: 15px;
+}
+
+.gallery img {
+    width: 100%; /* Make images responsive */
+    height: auto;
+}
