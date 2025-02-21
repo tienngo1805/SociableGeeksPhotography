@@ -5,3 +5,5 @@ date: 2022-04-03
 Hi, quick update from me. I just want to let everyone know that I like roaring.
 
 ![demo](/img/Henry-Graduation/img-1.png)
+![demo](/img/Henry-Graduation/img-2.png)
+![demo](/img/Henry-Graduation/img-3.png)
