@@ -1,4 +1,4 @@
 <meta charset="utf-8">
 <title>{{ print .Page.Title }}</title>
-{{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify }}
+{{ $style := resources.Get "assets/scss/main.scss" | resources.ToCSS | resources.Minify }}
 <link rel="stylesheet" href="/assets/scss/main.scss">
