@@ -7,7 +7,7 @@ collections_config:
     path: content
     name: Content
     icon: wysiwyg
-    disable_url: false
+    disable_url: true
     description: ''
     _enabled_editors:
     disable_add: false
