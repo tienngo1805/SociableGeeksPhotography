@@ -8,11 +8,13 @@ collections_config:
     name: Content
     icon: wysiwyg
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   posts:
-    path: /posts
+    path: posts
     glob:
     name:
     singular_name:
@@ -21,7 +23,7 @@ collections_config:
     disable_url: false
     include_developer_files:
     documentation:
-    description:
+    description: ''
     preview:
     sort:
     sort_options:
