@@ -7,7 +7,7 @@ collections_config:
     path: content
     name: Content
     icon: wysiwyg
-    disable_url: true
+    disable_url: false
     description: ''
     _enabled_editors:
     disable_add: false
@@ -20,11 +20,18 @@ collections_config:
     singular_name:
     icon: image
     url:
-    disable_url: true
+    disable_url: false
     include_developer_files:
     documentation:
     description: These are where the galleries will live
     preview:
+      text:
+      subtext:
+      icon:
+      icon_color:
+      image:
+      metadata:
+      gallery:
     sort:
     sort_options:
     _editables:
