@@ -20,7 +20,7 @@ collections_config:
     singular_name:
     icon: notes
     url:
-    disable_url: true
+    disable_url: false
     include_developer_files:
     documentation:
     description: ''
