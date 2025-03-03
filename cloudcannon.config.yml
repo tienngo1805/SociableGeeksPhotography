@@ -14,7 +14,7 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
   posts:
-    path: content/posts
+    path: content
     glob:
     name:
     singular_name:
