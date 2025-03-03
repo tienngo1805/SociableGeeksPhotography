@@ -16,14 +16,14 @@ collections_config:
   posts:
     path: content/posts
     glob:
-    name:
+    name: Galleries
     singular_name:
-    icon: notes
+    icon: image
     url:
     disable_url: true
     include_developer_files:
     documentation:
-    description: ''
+    description: These are where the galleries will live
     preview:
     sort:
     sort_options:
