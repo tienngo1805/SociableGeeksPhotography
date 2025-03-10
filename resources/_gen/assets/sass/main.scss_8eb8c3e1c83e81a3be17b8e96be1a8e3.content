@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 body{width:50%;margin:0 auto;font-family:sans-serif}nav ul{list-style:none;padding:3px 5px;background:#111;text-align:right}nav ul a{color:#fff;text-decoration:none;padding-right:2%}nav ul a:hover{text-decoration:underline}nav ul li{display:inline}footer{background:#f2f2f2;padding:2px;font-size:.7em;text-align:left}#map{height:300px}img{width:33%;height:auto}
+=======
+body{width:50%;margin:0 auto;font-family:sans-serif}nav ul{list-style:none;padding:3px 5px;background:#111;text-align:right}nav ul a{color:#fff;text-decoration:none;padding-right:2%}nav ul a:hover{text-decoration:underline}nav ul li{display:inline}footer{background:#f2f2f2;padding:2px;font-size:.7em;text-align:left}#map{height:300px}img{width:33%;height:auto;-webkit-filter:grayscale(100%);filter:grayscale(100%);-webkit-transition:.3s ease-in-out;transition:.3s ease-in-out}img:hover{-webkit-filter:grayscale(0);filter:grayscale(0)}
+>>>>>>> parent of ad96014 (Added filter to imgs)

@@ -40,6 +40,13 @@ body {
   img {
     width: 33%;
     height: auto;
+<<<<<<< HEAD
+=======
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+>>>>>>> parent of ad96014 (Added filter to imgs)
   }
   
   /* ---- This code below is for the colour to grey effect for images ---- */
@@ -50,7 +57,13 @@ body {
   
 /*
   img:hover {
+<<<<<<< HEAD
     -webkit-filter: grayscale(100);
 	filter: grayscale(100);
   }
   */
+=======
+    -webkit-filter: grayscale(0);
+	filter: grayscale(0);
+  }
+>>>>>>> parent of ad96014 (Added filter to imgs)
