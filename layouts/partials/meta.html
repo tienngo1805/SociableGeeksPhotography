@@ -1,6 +1,5 @@
 <meta charset="utf-8">
 <title>{{ .Page.Title }}</title>
-{{ $sass := resources.Get "/sass/main.min.scss" }}
-{{ $style := $sass | css.Sass | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+{{ $styles := resources.Get "sass/styles.scss" | toCSS | minify }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}">
 
