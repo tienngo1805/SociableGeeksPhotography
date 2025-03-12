@@ -1,5 +1,0 @@
-<meta charset="utf-8">
-<title>{{ .Page.Title }}</title>
-{{ $styles := resources.Get "sass/styles.scss" | toCSS | minify }}
-<link rel="stylesheet" href="{{ $styles.Permalink }}">
-
