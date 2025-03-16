@@ -1,6 +1,6 @@
-baseURL = 'https://endless-squid.cloudvent.net'
+baseURL = 'https://endless-squid.cloudvent.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'SociableGeeks Photography'
 
 [params]
 name = 'SociableGeeks Photography'
