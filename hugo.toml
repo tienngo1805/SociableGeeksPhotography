@@ -1,5 +1,5 @@
 baseURL = 'https://endless-squid.cloudvent.net/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'SociableGeeks Photography'
 
 [params]
