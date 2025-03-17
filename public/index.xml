@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on SociableGeeks Photography</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on SociableGeeks Photography</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I like to roar</title>
-      <link>//localhost:1313/posts/2022-04-03-i-like-to-roar/</link>
+      <link>http://localhost:1313/posts/2022-04-03-i-like-to-roar/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2022-04-03-i-like-to-roar/</guid>
+      <guid>http://localhost:1313/posts/2022-04-03-i-like-to-roar/</guid>
       <description>&lt;p&gt;Hi, quick update from me. I just want to let everyone know that I like roaring.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Today I made friends</title>
-      <link>//localhost:1313/posts/2022-04-02-today-i-made-friends/</link>
+      <link>http://localhost:1313/posts/2022-04-02-today-i-made-friends/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2022-04-02-today-i-made-friends/</guid>
+      <guid>http://localhost:1313/posts/2022-04-02-today-i-made-friends/</guid>
       <description>&lt;p&gt;I got lost in the woods today. Two friends, a Meerkat and a Warthog, found me,&#xA;sung a song with me and gave my life new meaning. Today was a good day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vegan experiment</title>
-      <link>//localhost:1313/posts/2022-04-01-vegan-experiment/</link>
+      <link>http://localhost:1313/posts/2022-04-01-vegan-experiment/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2022-04-01-vegan-experiment/</guid>
+      <guid>http://localhost:1313/posts/2022-04-01-vegan-experiment/</guid>
       <description>&lt;p&gt;I tried to become a vegan today. I made it to lunch time and couldn&amp;rsquo;t bear the&#xA;sight of another green leaf. Yuck!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Henry&#39;s Graduation</title>
-      <link>//localhost:1313/posts/2018-07-18-henry-graduation/</link>
+      <link>http://localhost:1313/posts/2018-07-18-henry-graduation/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2018-07-18-henry-graduation/</guid>
-      <description>&lt;p&gt;Testing&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/gallery/img1.png&#34; alt=&#34;Persephone&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2018-07-18-henry-graduation/</guid>
+      <description>&lt;p&gt;Testing&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/gallery/img1.png&#34; alt=&#34;Persephone&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m learning Hugo, one step at a time.&lt;/p&gt;</description>
     </item>
   </channel>
