@@ -9,11 +9,11 @@ collections_config:
     name: Galleries
     singular_name:
     icon: photo_camera
-    url:
+    url: /posts
     disable_url: false
     include_developer_files:
     documentation:
-    description:
+    description: ''
     preview:
       text:
       subtext:
